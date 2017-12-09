@@ -18,7 +18,7 @@
 <body>
 <div class="container">
 	<h1>Curso JS</h1>
-	<p>Creando página de pruebas </p>
+	<h2>Creando página de pruebas </h2>
 	<img id="imagen" src="images/arbol.jpg" width="35%">
 	<article class="articulo-principal">
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
